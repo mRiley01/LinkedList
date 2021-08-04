@@ -8,15 +8,15 @@ public class LinkTest {
 			LinkedList Bangtan = new LinkedList();
 			
 			//BTS Chant 
-			Bangtan.addAtHead("Kim Namjoon");
-			Bangtan.addAtIndex(1, "Kim Seokjin");
-			Bangtan.addAtIndex(2, "Min Yoongi");
-			Bangtan.addAtIndex(3, "Jung Hoseok");
-			Bangtan.addAtIndex(4, "Park Jimin");
-			Bangtan.addAtIndex(5, "Kim Taehyung");
-			Bangtan.addAtIndex(6, "Jeon Jungkook");
+			Bangtan.addAtHead("A");
+			Bangtan.addAtIndex(1, "B");
+			Bangtan.addAtIndex(2, "C");
+			Bangtan.addAtIndex(3, "D");
+			Bangtan.addAtIndex(4, "E");
+			Bangtan.addAtIndex(5, "F");
+			Bangtan.addAtIndex(6, "G");
 			
-			Bangtan.addAtTail("BTS!");
+			Bangtan.addAtTail("H");
 			
 			Bangtan.show();
 			 
